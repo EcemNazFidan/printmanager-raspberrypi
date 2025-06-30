@@ -194,4 +194,5 @@ For academic citation or usage requests, please contact the author directly.
 ## 🙋‍♀️ Contact
 
 For academic use, improvements, or collaborations:  
-**Ecem Naz Fidan** – [LinkedIn](www.linkedin.com/in/ecem-naz-fidan) | [GitHub](#EcemNazFidan) | [Email](ecemnazfidan2002@gmail.com)
+**Ecem Naz Fidan** – [LinkedIn](www.linkedin.com/in/ecem-naz-fidan) | [GitHub](EcemNazFidan) | [Email](ecemnazfidan2002@gmail.com) 
+                   – www.linkedin.com/in/ecem-naz-fidan             | EcemNazFidan           | ecemnazfidan2002@gmail.com
