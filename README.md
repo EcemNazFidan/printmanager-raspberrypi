@@ -181,14 +181,17 @@ PrintManager offers a **two-part automation system**:
 
 ---
 
-## 🧾 License
-
-This project is developed for academic and personal educational use. If you adapt or expand this system, please provide attribution to the original author.
-
 ---
+
+## 📄 License
+
+This project is **not licensed for public use**.  
+All content is © 2025 Ecem Naz Fidan.  
+**Unauthorized use, copying, or distribution is prohibited.**  
+For academic citation or usage requests, please contact the author directly.
 
 
 ## 🙋‍♀️ Contact
 
 For academic use, improvements, or collaborations:  
-**Ecem Naz Fidan** – [LinkedIn](#) | [GitHub](#) | [Email](#)
+**Ecem Naz Fidan** – [LinkedIn](www.linkedin.com/in/ecem-naz-fidan) | [GitHub](#EcemNazFidan) | [Email](ecemnazfidan2002@gmail.com)
